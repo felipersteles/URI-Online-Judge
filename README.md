@@ -1,3 +1,3 @@
 # URI-Online-Judge
 
-Alguns dos problemas resolvidos no URI Online
+Alguns dos problemas resolvidos por mim no URI Online
